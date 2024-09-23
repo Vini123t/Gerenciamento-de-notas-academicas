@@ -5,4 +5,8 @@ Requisitos a seguir no PDF:
 
 		  
 
-Print da tela principal:  ![image](https://github.com/user-attachments/assets/f6adbc21-c0ab-420e-8027-aae50918beb5)
+Print da tela principal:  
+
+
+![Uploading image.png…]()
+
