@@ -6,7 +6,4 @@ Requisitos a seguir no PDF:
 		  
 
 Print da tela principal:  
-
-
-![Uploading image.png…]()
-
+![WhatsApp Image 2024-09-23 at 19 40 23](https://github.com/user-attachments/assets/c6d7f423-9001-4add-92cb-b2604e1322a1)
